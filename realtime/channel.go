@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"sync"
 
-	"nhooyr.io/websocket"
+	"github.com/coder/websocket"
 )
 
 type channel struct {

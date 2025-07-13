@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"nhooyr.io/websocket"
+	"github.com/coder/websocket"
 )
 
 func TestMockConn(t *testing.T) {

@@ -3,8 +3,8 @@ module github.com/supabase-community/realtime-go
 go 1.22
 
 require (
+	github.com/coder/websocket v1.8.13
 	github.com/stretchr/testify v1.10.0
-	nhooyr.io/websocket v1.8.11
 )
 
 require (

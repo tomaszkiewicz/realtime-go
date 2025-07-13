@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync"
 
-	"nhooyr.io/websocket"
+	"github.com/coder/websocket"
 )
 
 // MockConn implements websocket.Conn for testing
